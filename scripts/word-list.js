@@ -259,4 +259,8 @@ const wordList = [
         word: "brilliant",
         hint: "Exceptionally clever, talented, or impressive."
     },
+    {
+        word:"Adventure",
+        hint:"An exciting and often risky journey."
+    }
 ];
